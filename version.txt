@@ -1,2 +1,1 @@
-version:1.0
-Feature:version control
+version:2.0-feature
